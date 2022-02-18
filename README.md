@@ -16,12 +16,13 @@ Just launch this script and input your github email and user name you would like
 
 ## Contributing
 
-1. Fork this repository 
+1. Fork this repository
 2. Make changes
 3. Create pull request, shortly describe your changes in pull request name.
 4. Please, try to commit every logical changes and describe every commit that you made, thanks.
 
 ## Plans
+
 1. Create script with github-token manipulations.
 
 ## Meta
